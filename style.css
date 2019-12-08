@@ -17,3 +17,8 @@
     padding: 20px;
     font-family: 'Libre Baskerville', serif;
 }
+
+/* portfolio page */
+#portfolioCards{
+    margin: 2em;
+}
