@@ -19,6 +19,6 @@
 }
 
 /* portfolio page */
-#portfolioCards{
+#portfolioCards, #formCard{
     margin: 2em;
 }
