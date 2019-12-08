@@ -1,7 +1,19 @@
+#navbar{
+    /* position: relative; */
+}
 .alignmentContainerNav{
     right: 10px;
     position: absolute;
 }
 #navbarNav{
     position: relative;
+}
+#navbarName{
+    position: relative;
+    left: 15%;
+    background-color: rgb(68, 214, 214);
+    color: white;
+    margin: -8px;
+    padding: 20px;
+    font-family: 'Libre Baskerville', serif;
 }
