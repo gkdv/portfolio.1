@@ -27,3 +27,9 @@
     color: white;
     border-color: rgb(68, 214, 214);
 }
+#cardImage{
+    position: relative;
+}
+#imageOverlay{
+    position: absolute;
+}
