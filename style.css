@@ -33,3 +33,18 @@
 #imageOverlay{
     position: absolute;
 }
+ /* about/index page  */
+.mb-3{
+    margin: 10% auto;
+}
+#aboutImage{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+#AboutCardTitle{
+    color: rgb(68, 214, 214);
+    font-family: 'Libre Baskerville', serif;
+    border-style: none none solid none;
+    border-color: lightgray;
+    padding: 0px 0px 10px;
+}
