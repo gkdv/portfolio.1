@@ -1,6 +1,22 @@
-#navbar{
-    /* position: relative; */
+
+
+/* general  */
+body{
+    background-image: url('images/chevron/chevron.png')
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: white;
+    text-align: center;
+    border-style: solid none none none;
+    border-color: rgb(39, 212, 198);
+}
+
 .alignmentContainerNav{
     right: 10px;
     position: absolute;
