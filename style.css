@@ -14,7 +14,7 @@ body{
     color: white;
     text-align: center;
     border-style: solid none none none;
-    border-color: rgb(39, 212, 198);
+    border-color: #08762A;
 }
 
 .alignmentContainerNav{
@@ -27,7 +27,7 @@ body{
 #navbarName{
     position: relative;
     left: 15%;
-    background-color: rgb(68, 214, 214);
+    background-color: #08762A;
     color: white;
     margin: -8px;
     padding: 20px;
@@ -39,9 +39,9 @@ body{
     margin: 2em;
 }
 .btn{
-    background-color: rgb(68, 214, 214);
+    background-color: #08762A;
     color: white;
-    border-color: rgb(68, 214, 214);
+    border-color: #08762A;
 }
 #cardImage{
     position: relative;
@@ -58,7 +58,7 @@ body{
     padding-left: 10px;
 }
 #AboutCardTitle{
-    color: rgb(68, 214, 214);
+    color: #08762A;
     font-family: 'Libre Baskerville', serif;
     border-style: none none solid none;
     border-color: lightgray;
